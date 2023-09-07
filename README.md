@@ -1,4 +1,4 @@
-<p style="margin: 0% 10% 0% 10%">
+<p style="margin: 0% 15% 0% 15%;">
  <img src="./static/ReadmeHeader.png" />
 </p>
 
@@ -11,7 +11,7 @@
 </p>
 
 
-### Development Skills 
+## Development Skills 
 ![Header](./static/badges/dev/gamedev.png)
 ![Header](./static/badges/dev/unity.png)
 ![Header](./static/badges/dev/csharp.png)
