@@ -1,6 +1,6 @@
 ![Header](./static/ReadmeHeader.png)
 
-<p align="justify">
+<h3 align="justify">
 	Altough my time as a gamer and dream to create breathtaking games date back to my early years, it is
 	been only for the last 2 years that I have inmersed myself in the
 	vast worl of creating videogames. In this two years period I have
