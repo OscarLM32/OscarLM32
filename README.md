@@ -1,4 +1,6 @@
-![Header](./static/ReadmeHeader.png)
+<p style="margin: 0% 10% 0% 10%">
+ <img src="./static/ReadmeHeader.png" />
+</p>
 
 <h3 align="justify">
 	Altough my time as a gamer and dream to create breathtaking games date back to my early years, it is
