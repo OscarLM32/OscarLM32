@@ -1,4 +1,35 @@
-### Hi there 👋
+![Header](./static/ReadmeHeader.png)
+
+<p align="justify">
+	Altough my time as a gamer and dream to create breathtaking games date back to my early years, it is
+	been only for the last 2 years that I have inmersed myself in the
+	vast worl of creating videogames. In this two years period I have
+	enhanced my skills in both development and design, my projects being proof
+	of this improvement.
+</p>
+
+
+### Development Skills 
+![Header](./static/badges/dev/gamedev.png)
+![Header](./static/badges/dev/unity.png)
+![Header](./static/badges/dev/csharp.png)
+
+[Virtual Fruits](https://github.com/OscarLM32/Virtual-Fruits)
+<!--
+**OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!-- BADGES
 
@@ -28,18 +59,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
--->
-<!--
-**OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
