@@ -1,4 +1,4 @@
-<p style="margin: 0% 15% 0% 15%;">
+<p style="margin: 5%;">
  <img src="./static/ReadmeHeader.png" />
 </p>
 
@@ -8,15 +8,26 @@
 	vast worl of creating videogames. In this two years period I have
 	enhanced my skills in both development and design, my projects being proof
 	of this improvement.
-</p>
+</h4>
 
 
-## Development Skills 
+# Development Skills 
 ![Header](./static/badges/dev/gamedev.png)
 ![Header](./static/badges/dev/unity.png)
 ![Header](./static/badges/dev/csharp.png)
 
-[Virtual Fruits](https://github.com/OscarLM32/Virtual-Fruits)
+<h3 align="justify"> I have developed a series of videogames both for mobile devices and desktop using Unity 3D.</h>
+
+<!--[![](./static/repos/VirtualFruits.png)](https://github.com/OscarLM32/Virtual-Fruits)
+[![](./static/repos/ProjectD.png)](https://github.com/OscarLM32/Virtual-Fruits)
+[![](./static/repos/RushHourMobile.png)](https://github.com/OscarLM32/Virtual-Fruits)
+-->
+
+<div stile="display:flex; flex-direction:row;">
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img src="./static/repos/VirtualFruits.png" /></a>
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img src="./static/repos/ProjectD.png" /></a>
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img src="./static/repos/RushHourMobile.png" /></a>
+</div>
 <!--
 **OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
