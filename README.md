@@ -23,25 +23,14 @@
 [![](./static/repos/RushHourMobile.png)](https://github.com/OscarLM32/Virtual-Fruits)
 -->
 <p></p>
-<div>
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/ProjectD.png" /></a>
+
+<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/ProjectD.png" /></a>
 	<p></p>
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/RushHourMobile.png" /></a>
-</div>
+<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/RushHourMobile.png" /></a>
+
 <!--
 **OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 <!-- BADGES
