@@ -12,11 +12,10 @@
 
 
 # Development Skills 
-![Header](./static/badges/dev/gamedev.png)
-![Header](./static/badges/dev/unity.png)
-![Header](./static/badges/dev/csharp.png)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-<h3 align="justify"> I have developed a series of videogames both for mobile devices and desktop using Unity 3D.</h>
+<h3 align="justify"> I have developed a series of videogames both for mobile devices and desktop using Unity.</h3>
 
 <!--[![](./static/repos/VirtualFruits.png)](https://github.com/OscarLM32/Virtual-Fruits)
 [![](./static/repos/ProjectD.png)](https://github.com/OscarLM32/Virtual-Fruits)
@@ -24,13 +23,20 @@
 -->
 <p></p>
 
-<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="49%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="49%" src="./static/repos/ProjectD.png" /></a>
+<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="49%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Project-D" ><img width="49%" src="./static/repos/ProjectD.png" /></a>
 	<p></p>
-<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="49%" src="./static/repos/RushHourMobile.png" /></a>
+<a href="https://github.com/OscarLM32/Rush-Hour-Mobile" ><img width="49%" src="./static/repos/RushHourMobile.png" /></a>
 
-<!--
-**OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Design Skills
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+<h3 align="justify">I believe game design to be as important, if not more, than proper development</h3>
+
+
+# Other Skills
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP)
 
 
 <!-- BADGES
@@ -54,6 +60,7 @@
 [SOCIAL]
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Sketchfab](https://img.shields.io/badge/SKETCHFAB-white?style=for-the-badge&logo=Sketchfab)
 
 [OTHER]
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
