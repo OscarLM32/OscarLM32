@@ -1,5 +1,5 @@
-<p style="margin: 5%;">
- <img src="./static/ReadmeHeader.png" />
+<p align="center">
+	<img width="70%"  src="./static/ReadmeHeader.png" />
 </p>
 
 <h3 align="justify">
@@ -8,7 +8,7 @@
 	vast worl of creating videogames. In this two years period I have
 	enhanced my skills in both development and design, my projects being proof
 	of this improvement.
-</h4>
+</h3>
 
 
 # Development Skills 
@@ -23,10 +23,9 @@
 [![](./static/repos/RushHourMobile.png)](https://github.com/OscarLM32/Virtual-Fruits)
 -->
 
-<div stile="display:flex; flex-direction:row;">
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img src="./static/repos/VirtualFruits.png" /></a>
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img src="./static/repos/ProjectD.png" /></a>
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img src="./static/repos/RushHourMobile.png" /></a>
+<div>
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="50%" src="./static/repos/VirtualFruits.png" /></a><a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="50%" src="./static/repos/ProjectD.png" /></a>
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="50%" src="./static/repos/RushHourMobile.png" /></a>
 </div>
 <!--
 **OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
