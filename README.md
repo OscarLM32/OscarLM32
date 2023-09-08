@@ -24,9 +24,9 @@
 -->
 <p></p>
 
-<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="45%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="45%" src="./static/repos/ProjectD.png" /></a>
+<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/ProjectD.png" /></a>
 	<p></p>
-<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="45%" src="./static/repos/RushHourMobile.png" /></a>
+<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/RushHourMobile.png" /></a>
 
 <!--
 **OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
