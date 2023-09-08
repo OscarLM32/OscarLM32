@@ -22,10 +22,11 @@
 [![](./static/repos/ProjectD.png)](https://github.com/OscarLM32/Virtual-Fruits)
 [![](./static/repos/RushHourMobile.png)](https://github.com/OscarLM32/Virtual-Fruits)
 -->
-
+<p></p>
 <div>
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="50%" src="./static/repos/VirtualFruits.png" /></a><a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="50%" src="./static/repos/ProjectD.png" /></a>
-	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="50%" src="./static/repos/RushHourMobile.png" /></a>
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/ProjectD.png" /></a>
+	<p></p>
+	<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="48%" src="./static/repos/RushHourMobile.png" /></a>
 </div>
 <!--
 **OscarLM32/OscarLM32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
