@@ -3,17 +3,21 @@
 </p>
 
 <h3 align="justify">
-	Altough my time as a gamer and dream to create breathtaking games date back to my early years, it is
+	Altough my time as a gamer dates back to my early years, it is
 	been only for the last 2 years that I have inmersed myself in the
-	vast worl of creating videogames. In this two years period I have
+	vast world of game dev. In this period of time I have
 	enhanced my skills in both development and design, my projects being proof
 	of this improvement.
 </h3>
 
+&nbsp;
 
 # Development Skills 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 <h3 align="justify"> I have developed a series of videogames both for mobile devices and desktop using Unity.</h3>
 
@@ -27,16 +31,28 @@
 	<p></p>
 <a href="https://github.com/OscarLM32/Rush-Hour-Mobile" ><img width="49%" src="./static/repos/RushHourMobile.png" /></a>
 
+<h3 align="justify">Although my focus has been set on developing games using C# and Unity, I have developed different programs making use of OOP such as C++ and Java as part of my education.</h3>
+
+&nbsp;
+
+
 # Design Skills
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Google Docs](https://img.shields.io/badge/GOOGLE%20DOCS-white?style=for-the-badge&logo=google-docs)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<h3 align="justify">I believe game design to be as important, if not more, than proper development</h3>
+<h3 align="justify">I believe design to be the very core of every videogame, not only gameplay wise but it also helps shaping and defining the development. That is why I try to pactice designing as much as I do programming.</h3>
+<h3 align="justify">While </h3>
+
+&nbsp;
 
 
 # Other Skills
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
 <!-- BADGES
@@ -49,6 +65,7 @@
 [DESIGN]
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Google Docs](https://img.shields.io/badge/GOOGLE%20DOCS-white?style=for-the-badge&logo=google-docs)
 
 [GAMING]
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
