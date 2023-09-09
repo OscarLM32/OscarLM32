@@ -23,7 +23,7 @@
 -->
 <p></p>
 
-<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="49%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Project-D" ><img width="49%" src="./static/repos/ProjectD.png" /></a>
+<a href="https://github.com/OscarLM32/Virtual-Fruits" ><img width="49%" src="./static/repos/VirtualFruits.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/OscarLM32/Project-D" ><img width="49%" src="./static/repos/ProjectD.png" /></a>
 	<p></p>
 <a href="https://github.com/OscarLM32/Rush-Hour-Mobile" ><img width="49%" src="./static/repos/RushHourMobile.png" /></a>
 
