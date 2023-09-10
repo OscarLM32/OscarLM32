@@ -41,18 +41,19 @@
 ![Google Docs](https://img.shields.io/badge/GOOGLE%20DOCS-white?style=for-the-badge&logo=google-docs)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<h3 align="justify">I believe design to be the very core of every videogame, not only gameplay wise but it also helps shaping and defining the development. That is why I try to pactice designing as much as I do programming.</h3>
-<h3 align="justify">While </h3>
+<h3 align="justify">I believe design to be the very core of every videogame, not only gameplay wise but also shaping and defining the development. That is why I always try to keep my designs updated during development.</h3>
+<h3 align="justify">I mainly use Figma </h3>
 
 &nbsp;
 
 
 # Other Skills
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 
 
 <!-- BADGES
