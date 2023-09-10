@@ -42,7 +42,12 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <h3 align="justify">I believe design to be the very core of every videogame, not only gameplay wise but also shaping and defining the development. That is why I always try to keep my designs updated during development.</h3>
-<h3 align="justify">I mainly use Figma </h3>
+<h3 align="justify">
+	I mainly use Figma to prototype user interfaces and construct different elements like gameplay-loop diagrams while documenting everything
+	making use of Google Docs. My first GDD made for <a href="https://github.com/OscarLM32/Virtual-Fruits">Virtual Fruits</a> can be seen <a href="https://docs.google.com/document/d/1lJiy592_JxmwuRkl_hvUobWLtROLymsCWQBHJLBjCwA/edit?usp=sharing">here!</a>
+</h3>
+
+<h3>Finally, I have created a series of 3D assets in Blender 3D tat can be check in <a href="https://sketchfab.com/Oscar-Lopez">SketchFab</a>.</h3>
 
 &nbsp;
 
