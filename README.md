@@ -53,13 +53,17 @@
 
 
 # Other Skills
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-white?style=for-the-badge&logo=PHP)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<h3 align="justify">As part of my education I have developed a library management system and an e-shop. The back-end and database was constructed in MySQL and php, while
+the front-end was built in HTML and CSS.</h3>
 
+<h3 align="justify">I have experience working in teams of people using agile methodologies and managing projects in Notion and Trello.</h3>
 
 <!-- BADGES
 
