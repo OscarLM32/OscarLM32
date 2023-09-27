@@ -2,13 +2,7 @@
 	<img width="70%"  src="./static/ReadmeHeader.png" />
 </p>
 
-<h3 align="justify">
-	Altough my time as a gamer dates back to my early years, it is
-	been only for the last 2 years that I have inmersed myself in the
-	vast world of game dev. In this period of time I have
-	enhanced my skills in both development and design, my projects being proof
-	of this improvement.
-</h3>
+### Altough my time as a gamer dates back to my early years, it is been only for the last 2 years that I have inmersed myself in the vast world of game dev. In this period of time I have enhanced my skills in both development and design, my projects being proof of this improvement.
 
 &nbsp;
 
