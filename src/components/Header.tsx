@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaCode } from 'react-icons/fa';
 export function Header() {
   return (
     <motion.header 
-      initial={{ opacity: 0, y: -20 }}
+      initial={{ opacity: 0, y: -50 }}
       animate={{ opacity: 1, y: 0 }}
       className="fixed w-full z-50 backdrop-blur-md bg-bg/80 border-b border-primary/10"
     >
@@ -17,27 +17,21 @@ export function Header() {
           <span className="text-xl font-bold gradient-text">Portfolio</span>
         </motion.div>
         <div className="flex items-center space-x-6">
-          <a 
-            href="#about" 
-            className="hidden sm:block text-textPrimary/80 hover:text-primary transition-colors"
-          >
+          <a href="#about" className="hidden sm:block text-textPrimary/80 hover:text-primary transition-colors">
             About
           </a>
-          <a 
-            href="#projects" 
-            className="hidden sm:block text-textPrimary/80 hover:text-primary transition-colors"
-          >
+
+          <a href="#projects" className="hidden sm:block text-textPrimary/80 hover:text-primary transition-colors">
             Projects
           </a>
-          <a 
-            href="#contact" 
-            className="hidden sm:block text-textPrimary/80 hover:text-primary transition-colors"
-          >
+
+          <a href="#contact" className="hidden sm:block text-textPrimary/80 hover:text-primary transition-colors">
             Contact
           </a>
+
           <div className="flex space-x-4">
             <a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/OscarLM32" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-textPrimary/80 hover:text-primary transition-colors"
@@ -45,7 +39,7 @@ export function Header() {
               <FaGithub className="w-6 h-6" />
             </a>
             <a 
-              href="https://linkedin.com/in/yourusername" 
+              href="https://www.linkedin.com/in/oscarlopez32/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-textPrimary/80 hover:text-primary transition-colors"
