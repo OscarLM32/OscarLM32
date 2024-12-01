@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
-import { FaEnvelope, FaTwitter, FaGithub } from 'react-icons/fa';
+import { FaEnvelope, FaGithub } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa6';
 
 export function Contact() {
   return (
@@ -13,30 +14,31 @@ export function Contact() {
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl font-bold mb-8 gradient-text">Let's Connect</h2>
         <p className="text-xl mb-12 text-textPrimary/80">
-          Interested in working together? Let's talk about your project.
+          Interested in working with me? Let's talk about our future colaboration.
         </p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
           <a
-            href="mailto:your.email@example.com"
-            className="flex items-center space-x-2 px-6 py-3 rounded-lg card-gradient hover:bg-primary/10 transition-colors"
+            href="mailto:oscar.lopez.dev@gmail.com"
+            className="flex items-center space-x-2 px-6 py-3 rounded-lg card-gradient hover:bg-primary transition-colors"
           >
             <FaEnvelope className="text-primary" />
-            <span>Email Me</span>
+            <span>oscar.lopez.dev@gmail.com</span>
           </a>
+
           <a
-            href="https://twitter.com/yourusername"
+            href="https://www.linkedin.com/in/oscarlopez32/"
             target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center space-x-2 px-6 py-3 rounded-lg card-gradient hover:bg-primary/10 transition-colors"
+            className="flex items-center space-x-2 px-6 py-3 rounded-lg card-gradient hover:bg-primary transition-colors"
           >
-            <FaTwitter className="text-primary" />
-            <span>Twitter</span>
+            <FaLinkedin className="text-primary" />
+            <span>LinkedIn</span>
           </a>
+          
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/OscarLM32"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center space-x-2 px-6 py-3 rounded-lg card-gradient hover:bg-primary/10 transition-colors"
+            className="flex items-center space-x-2 px-6 py-3 rounded-lg card-gradient hover:bg-primary transition-colors"
           >
             <FaGithub className="text-primary" />
             <span>GitHub</span>
