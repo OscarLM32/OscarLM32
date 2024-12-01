@@ -5,6 +5,8 @@ import type { Project } from '../data/projects';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 import { ProjectModal } from './ProjectModal';
 
+const maxTechnologiesCount:number = 5;
+
 export function Projects() {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
 
@@ -39,6 +41,7 @@ export function Projects() {
                 <div className="absolute inset-0 bg-bg/80 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center space-x-4">
                   <a 
                     href={project.github}
+                    target='_blank'
                     className="text-primary hover:text-secondary p-2"
                     onClick={(e) => e.stopPropagation()}
                   >
@@ -50,7 +53,7 @@ export function Projects() {
                 <h3 className="text-2xl font-bold mb-3 text-primary">{project.title}</h3>
                 <p className="text-textPrimary/80 mb-4 line-clamp-2">{project.description}</p>
                 <div className="flex flex-wrap gap-2">
-                  {project.technologies.slice(0, 3).map((tech) => (
+                  {project.technologies.slice(0, maxTechnologiesCount).map((tech) => (
                     <span 
                       key={tech}
                       className="px-3 py-1 rounded-full text-sm border border-primary/30 text-primary"
@@ -58,9 +61,9 @@ export function Projects() {
                       {tech}
                     </span>
                   ))}
-                  {project.technologies.length > 3 && (
+                  {project.technologies.length > maxTechnologiesCount && (
                     <span className="px-3 py-1 rounded-full text-sm border border-primary/30 text-primary">
-                      +{project.technologies.length - 3} more
+                      +{project.technologies.length - maxTechnologiesCount} more
                     </span>
                   )}
                 </div>

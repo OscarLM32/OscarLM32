@@ -37,7 +37,7 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
             <img
               src={project.image}
               alt={project.title}
-              className="w-full aspect-video object-cover rounded-t-xl"
+              className="w-full max-h-56 object-cover rounded-t-xl"
             />
           </div>
 
