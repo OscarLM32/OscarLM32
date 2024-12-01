@@ -28,8 +28,8 @@ export function Hero() {
         transition={{ delay: 0.2 }}
         className="text-5xl sm:text-5xl font-bold mb-6 text-center"
       >
-        <span className="gradient-text">Serene approach </span>
-        <span className="text-textPrimary">- Robust execution</span>
+        <span className="text-textPrimary">I am a </span>
+        <span className="gradient-text">Web Developer</span>
       </motion.h1>
       
       <motion.p 
