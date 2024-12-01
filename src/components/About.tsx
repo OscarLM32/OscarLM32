@@ -11,22 +11,22 @@ const skills: SkillCard[] = [
   {
     icon: <FaCode className="w-8 h-8" />,
     title: "Frontend Development",
-    description: "Building responsive and interactive user interfaces with React, TypeScript, and modern CSS frameworks."
+    description: "Building responsive and interactive user interfaces with React, JavaScript and modern CSS frameworks."
   },
   {
     icon: <FaServer className="w-8 h-8" />,
     title: "Backend Development",
-    description: "Developing scalable server-side applications using Node.js, Express, and RESTful APIs."
+    description: "Developing scalable server-side applications using ASP.NET Core and RESTful APIs."
   },
   {
     icon: <FaMobile className="w-8 h-8" />,
     title: "Mobile Development",
-    description: "Creating cross-platform mobile applications with React Native and native technologies."
+    description: "Creating cross-platform mobile applications with Unity in C#."
   },
   {
     icon: <FaDatabase className="w-8 h-8" />,
     title: "Database Design",
-    description: "Designing and implementing efficient database solutions with MongoDB, PostgreSQL, and Redis."
+    description: "Designing and implementing efficient database solutions with MySQL"
   }
 ];
 
@@ -50,16 +50,14 @@ export function About() {
             viewport={{ once: true }}
             className="space-y-6"
           >
-            <h3 className="text-2xl font-bold text-primary">My Journey</h3>
+            <h3 className="text-2xl font-bold text-primary">My vision</h3>
             <p className="text-lg text-textPrimary/80">
-              With over 5 years of experience in software development, I've had the privilege
-              of working on diverse projects that have shaped my expertise in both frontend
-              and backend development.
+              With a strong foundation in web development, I specialize in building clean, robust, and professional solutions that deliver a lasting impact. 
+              My work is guided by a commitment to solving complex problems with a serene approach and robust execution.
             </p>
             <p className="text-lg text-textPrimary/80">
-              My passion lies in creating intuitive user experiences and solving complex
-              technical challenges. I'm constantly learning and adapting to new technologies
-              to deliver the best solutions.
+              I'm dedicated to continuous learning, adapting to new tools, and ensuring that every project I undertake reflects professionalism and purpose 
+              by focusing on clarity and reliability.
             </p>
             <div className="flex gap-4">
               <motion.button
@@ -95,9 +93,7 @@ export function About() {
                 transition={{ delay: index * 0.1 }}
                 className="card-gradient p-6 rounded-xl"
               >
-                <div className="text-primary mb-4">
-                  {skill.icon}
-                </div>
+                <div className="text-primary mb-4">{skill.icon}</div>
                 <h4 className="text-lg font-semibold mb-2">{skill.title}</h4>
                 <p className="text-sm text-textPrimary/70">{skill.description}</p>
               </motion.div>
