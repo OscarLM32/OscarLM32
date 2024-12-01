@@ -17,7 +17,7 @@ export function Projects() {
           viewport={{ once: true }}
           className="text-4xl font-bold text-center mb-16 gradient-text"
         >
-          Featured Projects
+          Personal Projects
         </motion.h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {projects.map((project, index) => (
@@ -43,13 +43,6 @@ export function Projects() {
                     onClick={(e) => e.stopPropagation()}
                   >
                     <FaGithub className="w-8 h-8" />
-                  </a>
-                  <a 
-                    href={project.demo}
-                    className="text-primary hover:text-secondary p-2"
-                    onClick={(e) => e.stopPropagation()}
-                  >
-                    <FaExternalLinkAlt className="w-8 h-8" />
                   </a>
                 </div>
               </div>

@@ -78,15 +78,6 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
                 <FaGithub className="w-5 h-5" />
                 View Code
               </a>
-              <a
-                href={project.demo}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-6 py-3 rounded-lg border border-primary text-primary font-medium hover:bg-primary/10 transition-colors"
-              >
-                <FaExternalLinkAlt className="w-5 h-5" />
-                Live Demo
-              </a>
             </div>
           </div>
         </motion.div>
