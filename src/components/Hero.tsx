@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { FaArrowDown } from 'react-icons/fa';
+import pfp from "../assets/pfp.jpg"
 
 export function Hero() {
   return (
@@ -15,7 +16,7 @@ export function Hero() {
         className="w-40 h-40 rounded-full border-4 border-primary mb-8 overflow-hidden"
       >
         <img 
-          src="https://via.placeholder.com/400x400" 
+          src={pfp} 
           alt="Profile" 
           className="w-full h-full object-cover"
         />
