@@ -26,10 +26,10 @@ export function Hero() {
         initial={{ y: 20, opacity: 0 }}
         animate={{ y: 0, opacity: 1 }}
         transition={{ delay: 0.2 }}
-        className="text-5xl sm:text-6xl font-bold mb-6 text-center"
+        className="text-5xl sm:text-5xl font-bold mb-6 text-center"
       >
-        <span className="text-textPrimary">I'm a </span>
-        <span className="gradient-text">Creative Developer</span>
+        <span className="gradient-text">Serene approach </span>
+        <span className="text-textPrimary">- Robust execution</span>
       </motion.h1>
       
       <motion.p 
@@ -38,8 +38,8 @@ export function Hero() {
         transition={{ delay: 0.3 }}
         className="text-xl text-center max-w-2xl mb-12 text-textPrimary"
       >
-        Building digital experiences that combine creativity with technical excellence. 
-        Specialized in modern web technologies and user-centric design.
+        I create clean and professional web solutions designed to stand the test of time. 
+        Explore my portfolio to see my work in action.
       </motion.p>
 
       <motion.div
