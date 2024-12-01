@@ -3,6 +3,7 @@ import { Hero } from './components/Hero';
 import { About } from './components/About';
 import { Projects } from './components/Projects';
 import { Contact } from './components/Contact';
+import { Footer } from './components/Footer';
 
 function App() {
   return (
@@ -14,9 +15,7 @@ function App() {
         <Projects />
         <Contact />
       </main>
-      <footer className="py-6 text-center text-textPrimary/60">
-        <p>© {new Date().getFullYear()} Your Name. Built with passion ❤️</p>
-      </footer>
+      <Footer />
     </div>
   );
 }
