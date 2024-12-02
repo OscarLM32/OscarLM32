@@ -18,7 +18,7 @@ export function Hero() {
         <img 
           src={pfp} 
           alt="Profile" 
-          className="w-full h-full object-cover"
+          className="w-full h-full object-contain mt-1"
         />
       </motion.div>
       
