@@ -57,13 +57,18 @@ export function ProjectModal({ project, onClose }: ProjectModalProps) {
 
             <p className="text-lg text-textPrimary/80 mb-6">{project.description}</p>
             
-            <div className="space-y-4">
-              <h4 className="text-xl font-semibold text-primary">Key Features</h4>
+            <div className="space-y-4 mb-6">
+              <h4 className="text-xl  font-semibold text-primary">Key Features</h4>
               <ul className="list-disc list-inside space-y-2 text-textPrimary/80">
                 {project.features?.map((feature, index) => (
                   <li key={index}>{feature}</li>
                 ))}
               </ul>
+            </div>
+
+            <div>
+              <h4 className="text-3xl font-semibold text-primary mb-4">Showcase</h4>
+              {project.page}
             </div>
           </div>
 

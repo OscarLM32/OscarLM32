@@ -23,7 +23,7 @@ export const projects: Project[] = [
       "Search and join local running clubs",
       "Discover and register for upcoming events",
     ],
-    page: <div></div>
+    page: <div>Hello world from RunT Web App</div>
   },
   {
     id: 2,
@@ -35,6 +35,6 @@ export const projects: Project[] = [
     features: [
       "User registration and JWT token based authorization",
     ],
-    page: <div></div>
+    page: <div>Hello world from RunT API</div>
   }
 ];
