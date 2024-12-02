@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from 'framer-motion';
-import { FaGithub, FaExternalLinkAlt, FaTimes } from 'react-icons/fa';
+import { FaGithub, FaTimes } from 'react-icons/fa';
 import type { Project } from '../data/projects';
 
 interface ProjectModalProps {
